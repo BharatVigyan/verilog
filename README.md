@@ -108,3 +108,8 @@ Contributions are welcome! Please submit a pull request if you have any improvem
 ---
 
 This README provides all necessary information for users to set up and use the DHT11 sensor interface with the Basys board. You can modify it further based on specific project requirements or updates.
+ want to support me buy me a coffee !!
+
+- <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="bkasyap" data-color="#5F7FFF" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+
+
